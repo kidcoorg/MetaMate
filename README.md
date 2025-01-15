@@ -20,7 +20,7 @@
 [↻ Reproducibility](#-reproducibility)
 
 
-![WebMindAI-removebg-preview]![image][(https://github.com/user-attachments/assets/88082454-fcff-4082-92ee-c1abcb1cd70c)](https://github-production-user-asset-6210df.s3.amazonaws.com/194303401/401694485-8c381e36-3580-420b-b18e-4c52ddf13766.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250115T222232Z&X-Amz-Expires=300&X-Amz-Signature=76d33271e7cd676b4dfef3d79b0cca21525666460ce7c491c89fad18947a3f95&X-Amz-SignedHeaders=host)
+![WebMindAI-removebg-preview]![image][(https://github.com/user-attachments/assets/88082454-fcff-4082-92ee-c1abcb1cd70c)]
 
 
 </div>
