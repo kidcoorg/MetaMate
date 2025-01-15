@@ -20,7 +20,8 @@
 [↻ Reproducibility](#-reproducibility)
 
 
-![WebMindAI-removebg-preview](https://github.com/user-attachments/assets/8c381e36-3580-420b-b18e-4c52ddf13766)
+![WebMindAI-removebg-preview]![image](https://github.com/user-attachments/assets/88082454-fcff-4082-92ee-c1abcb1cd70c)
+
 
 </div>
 
